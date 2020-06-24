@@ -14,6 +14,9 @@
 
 .default {
   background-color: $color-secondary;
+  &:hover {
+    background-color: lighten($color-secondary, 10%);
+  }
 }
 
 .error {

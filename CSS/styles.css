@@ -464,7 +464,6 @@ a {
   display: flex;
   flex-direction: column;
 }
-
 .nav-link {
   text-align: center;
   border-radius: 5px;
@@ -494,6 +493,9 @@ a {
 
 .default {
   background-color: #51ddfc;
+}
+.default:hover {
+  background-color: #83e7fd;
 }
 
 .error {
