@@ -2,13 +2,16 @@
 
 //Colors
 $gray: #777;
-$primary: #58e1c1;
-$secondary: #51ddfc;
+$color-primary: #58e1c1;
+$color-secondary: #51ddfc;
 $white: #fff;
-$success: #63cc82;
+$color-success: #63cc82;
 
 //Borders
-$radius: 5px;
+$radius-sm: 5px;
 
 //Media Query
 $large: 'min-width: 768px';
+
+//Fonts
+$font-primary: 'Lato', sans-serif;
